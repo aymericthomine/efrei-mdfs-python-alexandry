@@ -52,4 +52,7 @@ npm install -S react-router-dom
 |DELETE	| /delete-book/:id	| this route should allow you to delete a specific pokemon|
 
 ## Demo
-![demo](https://i.ibb.co/VS9r5NL/Demo-pokedex.png)
+![demo](https://i.ibb.co/9wnBcgy/Capture-d-e-cran-2021-09-24-a-15-22-04.png)
+![demo](https://i.ibb.co/ChdhYtT/Capture-d-e-cran-2021-09-24-a-15-23-51.png)
+![demo](https://i.ibb.co/5nVF1n3/Capture-d-e-cran-2021-09-24-a-15-24-15.png)
+
