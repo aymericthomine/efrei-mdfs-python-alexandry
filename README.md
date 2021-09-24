@@ -22,8 +22,8 @@ $ flask run
 |-------|------|-----------|
 |GET	| /books | this should respond with a list of all books.|
 |POST	| /add-book	| this route should add a book on your library.|
-|PUT	| /update-book/:nom | this route should update a book on your library.|
-|DELETE	| /delete-book/:id	| this route should allow you to delete a specific book|
+|PUT	| /update-book/ | this route should update a book on your library.|
+|DELETE	| /delete-book/	| this route should allow you to delete a specific book|
 
 ## Demo
 ![demo](https://i.ibb.co/9wnBcgy/Capture-d-e-cran-2021-09-24-a-15-22-04.png)
