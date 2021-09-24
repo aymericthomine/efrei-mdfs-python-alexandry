@@ -1,0 +1,36 @@
+{
+    "books": [
+        {
+            "title": "L'\u00c9tranger",
+            "author": "Albert Camus",
+            "pages": 159,
+            "year": 1942,
+            "language": "French",
+            "country": "France"
+        },
+        {
+            "title": "Rom\u00e9o et Juliette",
+            "author": "William Shakespeare",
+            "pages": 108,
+            "year": 1597,
+            "language": "English",
+            "country": "England"
+        },
+        {
+            "title": "Les Fleurs du mal",
+            "author": "Charles Baudelaire",
+            "pages": 180,
+            "year": 1857,
+            "language": "French",
+            "country": "France"
+        },
+        {
+            "title": "Les Mis\u00e9rables",
+            "author": "Pierre Hugo",
+            "pages": 1598,
+            "year": 1862,
+            "language": "French",
+            "country": "France"
+        }
+    ]
+}
