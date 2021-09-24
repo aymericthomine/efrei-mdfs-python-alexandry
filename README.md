@@ -1,7 +1,6 @@
 # BOOK API
-![Title](https://user-images.githubusercontent.com/20692907/78142386-d6a7dc00-7467-11ea-81ca-c21b6b77d823.png)
 
-Let's talk about Pokemons with **NodeJS** and **React**.
+Let's talk about book API with **NodeJS** and **React**.
 
 ## Utilisation (step by step) 
 
