@@ -4,7 +4,13 @@ Let's talk about book API with **Python** and **Flask**.
 
 ## Utilisation 
 
-###### To start the project.
+###### First of all, you need to install flask.
+> Run the command below:
+```shell
+$ pip install flask
+```
+
+###### Then, you can start the project.
 > Run the command below:
 ```shell
 $ flask run
